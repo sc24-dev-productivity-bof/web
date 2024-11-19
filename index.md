@@ -1,9 +1,9 @@
 ---
-title: "SC24 - Tools and Strategies for Improving HPC Software Developer Productivity"
+title: "Tools and Strategies for Improving HPC Software Developer Productivity"
 permalink: /
 ---
 
-# Tools and Strategies for Improving HPC Software Developer Productivity
+<!-- # Tools and Strategies for Improving HPC Software Developer Productivity -->
 
 This BoF brings together a panel of international HPC software development experts to discuss tools and techniques for enhancing HPC software developer productivity. Key themes include DevOps, programming models (OpenMP, RAJA, Kokkos, etc.), and development tools. Additionally, the integration of AI across these themes will be explored (e.g., is GitHub Copilot useful in HPC software development?). Attendees will gain insights into overcoming productivity challenges unique to HPC. This session is ideal for HPC software developers seeking to improve their productivity through innovative tools and shared expert experiences. LLNL-ABS-866156.
 
