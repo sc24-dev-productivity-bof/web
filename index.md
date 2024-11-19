@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "SC24 - Tools and Strategies for Improving HPC Software Developer Productivity"
 permalink: /
 ---
